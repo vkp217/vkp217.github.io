@@ -49,7 +49,7 @@
     {
       "institution": "Indian Institute of Technology, Delhi",
       "location": "New Delhi, India",
-      "url": "https://www.iitd.ac.in/",
+      "url": "https://home.iitd.ac.in/",
       "area": "Chemical Engineering",
       "studyType": "PhD",
       "startDate": "2014-07-01",
@@ -60,10 +60,10 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
+      "title": "Gandhian Young Scientist Award",
       "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "awarder": "Honorable President of India",
+      "url": "https://www.youtube.com/watch?v=amri0lPsU4k",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
