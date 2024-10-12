@@ -2,18 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Vikas Pandey
     - name: Languages
-      value: English, German
+      value: English, Hindi
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Indian Institute of Technology, Delhi
+      year: 2020
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +19,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Dual Degrees (M.Tech & B.Tech)
+      institution: Indian Institute of Technology, Delhi
+      year: 2011
       description:
         - Description 1.
         - Description 2.
@@ -64,7 +62,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+    - title: <a href="https://github.com/vik217">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
