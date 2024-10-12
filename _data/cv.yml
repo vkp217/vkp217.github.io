@@ -29,9 +29,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Managing Director, Board member
+      institution: Valetude Primus Healthcare
+      year: 2015 - 2021
       description:
         - Description 1.
         - Description 2.
@@ -39,9 +39,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Postdoctoral Research Associate
+      institution: Rensselaer Polytechnic Institute, Troy, New York
+      year: 2022 - 2024
       description:
         - Description 1.
         - Description 2.
