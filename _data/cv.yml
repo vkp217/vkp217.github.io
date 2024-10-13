@@ -2,16 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Vikas Pandey
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
     - name: Languages
-      value: English, Hindi
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: Indian Institute of Technology, Delhi
-      year: 2020
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
         - Description 1.
         - Description 2.
@@ -19,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Dual Degrees (M.Tech & B.Tech)
-      institution: Indian Institute of Technology, Delhi
-      year: 2011
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
         - Description 1.
         - Description 2.
@@ -29,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Managing Director, Board member
-      institution: Valetude Primus Healthcare
-      year: 2015 - 2021
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
         - Description 1.
         - Description 2.
@@ -39,9 +41,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Postdoctoral Research Associate
-      institution: Rensselaer Polytechnic Institute, Troy, New York
-      year: 2022 - 2024
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
         - Description 1.
         - Description 2.
@@ -62,7 +64,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/vik217">al-folio</a>
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
