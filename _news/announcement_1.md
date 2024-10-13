@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Presenting recent work in SPIE Photonics West.
+Upcoming Presentation at SPIE Photonics West 2024
+I will be presenting my latest research at the SPIE Photonics West conference, taking place from January 25-30, 2024, in San Francisco, California.
