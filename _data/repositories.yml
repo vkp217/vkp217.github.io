@@ -1,11 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - vkp217
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - vkp217/vkp217.github.io
   - jekyll/jekyll
   - twbs/bootstrap
   - jquery/jquery
