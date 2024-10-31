@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2025-01-25 15:59:00-0400
+date: 2024-11-18 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Upcoming Presentation at SPIE Photonics West 2024: 
+"Invite-Only" Showcase of Our Work at IBM Watson Research Center
 
-I will be presenting my latest research at the SPIE Photonics West conference, taking place from January 25-30, 2024, in San Francisco, California.
+Our work "A Leap Forward in Cancer Imaging: Optimizing Recurrent Neural Networks for Real-Time Fluorescence Lifetime Imaging on Resource-Constrained FPGAs" has been selected for an exclusive, "invite-only" showcase at the IBM Watson Research Center in Yorktown Heights. This event will take place one day prior to the poster session.
