@@ -310,7 +310,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Pandey]
+  last_name: [Pandey, Pandey*, P.]
   first_name: [Vikas, V.]
 
   style: apa
