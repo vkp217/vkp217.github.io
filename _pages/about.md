@@ -14,9 +14,9 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a Research Scientist at Rensselaer Polytechnic Institute (RPI). My career is dedicated to advancing the frontiers of biophotonics, computational modeling, time-resolved functional imaging, and Deep learning.
+I am a Research Scientist at Rensselaer Polytechnic Institute (RPI) and an expert in Functional & Molecular Optical Imaging, advancing the frontiers of biophotonics, computational modeling, time-resolved functional imaging, and deep learning.
 
-By bridging physics-guided deep learning with innovative optical design, I develop user-friendly, high-impact medical technologies capable of addressing critical challenges in oncology and infectious disease diagnostics.
+My focus is on physics-guided deep learning models with hardware-accelerated deployment for developing efficient, user-friendly, high-impact medical technologies (Imaging Technogies) that address critical challenges in oncology such as in image-guided surgery and infectious disease diagnostics.
 
 **Research Focus & Core Expertise**
 - **Computational Biophotonics:** Developing physics-guided neural networks, deep learning models, and advanced statistical frameworks to extract precise parameters from low-photon, high-noise functional data.

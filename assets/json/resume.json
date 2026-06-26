@@ -101,7 +101,7 @@
     {
       "institution": "Indian Institute of Technology, Delhi",
       "location": "New Delhi, India",
-      "url": "http://chemical.iitd.ac.in/",
+      "url": "https://beb.iitd.ac.in/",
       "area": "Biochemical Engineering and Biotechnology",
       "studyType": "Bachelor and Master of Technology (Dual Degree)",
       "startDate": "2006-07-01",
@@ -283,7 +283,7 @@
     {
       "name": "Professor Margarida Barroso",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Rensselaer Polytechnic Institute, Department of Biomedical Engineering"
+      "reference": "Albany Medical College,  Molecular and Cellular Physiology Department"
     }
   ],
   "projects": [
@@ -291,7 +291,7 @@
       "name": "pyFLI — Open-source Fluorescence Lifetime Imaging Library",
       "summary": "Authored and published pyfli-lib on PyPI, an open-source Python package for unified, scalable processing and analysis of Fluorescence Lifetime Imaging data.",
       "highlights": ["Open-source", "PyPI package", "FLI data processing"],
-      "startDate": "2024-01-01",
+      "startDate": "2026-01-01",
       "endDate": "present",
       "url": "https://pypi.org/project/pyfli-lib/"
     },
@@ -299,7 +299,7 @@
       "name": "RPI-IBM AIRC: Neural Network Accelerator for Real-time FLI",
       "summary": "Co-PI developing FPGA-accelerated deep learning models for real-time fluorescence lifetime imaging in image-guided surgery.",
       "highlights": ["FPGA acceleration", "Neural network compression", "Real-time FLI"],
-      "startDate": "2024-01-01",
+      "startDate": "2025-01-01",
       "endDate": "present",
       "url": "http://airc.rpi.edu"
     },
