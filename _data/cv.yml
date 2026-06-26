@@ -2,36 +2,227 @@
   type: map
   contents:
     - name: Full Name
-      value: Vikas Pandey
-    #- name: Date of Birth
-     # value: 14th March 1879
+      value: Vikas Pandey, Ph.D.
+    - name: Position
+      value: Research Scientist
+    - name: Institution
+      value: Rensselaer Polytechnic Institute, Troy, NY, USA
+    - name: Phone
+      value: +1 518-276-2240 (office)
+    - name: Email
+      value: pandev2@rpi.edu
     - name: Languages
       value: English, Hindi, Spanish (basic)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Indian Institute of Technology, Delhi
-      year: 2020
+    - title: Research Scientist
+      institution: Rensselaer Polytechnic Institute, Troy, New York, USA
+      year: 2024 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Masters of Technology (M.Tech.) and Bachelors of Technology (B.Tech.) - Dual Degrees
-      institution: Indian Institute of Technology, Delhi
-      year: 2011
+        - Biomedical Optics, Machine Learning, and Cancer Imaging
+    - title: Postdoctoral Research Associate
+      institution: Rensselaer Polytechnic Institute, Troy, New York, USA
+      year: 2022 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Biomedical Optics, Machine Learning, and Cancer Imaging
+    - title: Co-founder, Managing Director
+      institution: Valetude Primus Healthcare, New Delhi, India
+      year: 2015 - 2021
+      description:
+        - Infectious Diseases, Biomedical Optics, Healthcare Devices, Clinical Validations
+    - title: Ph.D.
+      institution: Indian Institute of Technology, New Delhi, India
+      year: 2014 - 2020
+      description:
+        - Chemical Engineering
+    - title: Business Analyst
+      institution: Evalueserve Pvt. Ltd
+      year: 2011 - 2013
+      description:
+        - Data Modeling, Market Analysis
+    - title: Bachelor and Master of Technology (Dual Degree)
+      institution: Indian Institute of Technology, New Delhi, India
+      year: 2006 - 2011
+      description:
+        - Biochemical Engineering and Biotechnology
 
-- title: Experience
+- title: Patents
+  type: list
+  contents:
+    - "A composition for mucus or sputum liquefaction and a process thereof (Indian Patent no. 361905)"
+    - "Compact evanescent wave-based fluorescence illumination (Indian Patent no. 382141)"
+
+- title: Research Experience
   type: time_table
   contents:
-    - title: Research Scientist 
-      department: Center for Modeling, Simulation and Imaging in Medicine
-      instituttion: Rensselaer Polytechnic Institute 
-      year: July 2024 - present
+    - title: Research Scientist
+      institution: Centre for Modeling, Simulation & Imaging in Medicine (CeMSIM) & Biomedical Engineering, Rensselaer Polytechnic Institute, Troy, NY
+      year: Aug 2024 - present
+      description:
+        - In vivo non-invasive optical imaging for drug internalization quantification in HER2+ tumor xenografts via Fluorescence Lifetime Imaging (FLI).
+        - Developing deep learning and AI hardware accelerator algorithms for real-time FLI, for translation to image-guided surgery.
+        - Developing macro- and mesoscopic optical imaging setups including single-pixel and light-sheet based systems.
+        - FLI data processing using Deep Learning models and Hierarchical Bayesian inferences.
+        - Co-Principal Investigator in the RPI-IBM Artificial Intelligence Research Collaboration (AIRC) for neural network-accelerated hardware development for FLI.
+        - Forging new collaborations and nurturing partnerships through joint research projects and proposals.
+        - Mentoring 1 PhD student and guiding 2 undergraduate students.
+    - title: Postdoctoral Research Associate
+      institution: Biomedical Engineering & CeMSIM, Rensselaer Polytechnic Institute, Troy, NY
+      year: Jan 2022 - Aug 2024
+      description:
+        - In vivo non-invasive optical imaging for drug internalization quantification in HER2+ tumour xenografts via FLI.
+        - Machine learning model development to simplify and accelerate analysis of complex inverse problems.
+    - title: ERASMUS+ KA107 Ph.D. Research Exchange
+      institution: Optics Department, Universidad de Santiago de Compostela, Spain
+      year: During PhD
+      description:
+        - Selected from the Chemical Engineering Department, IIT Delhi for research exchange.
+        - Waveguide development for Total Internal Reflection Fluorescence (TIRF) scattering imaging.
+    - title: Co-founder, Managing Director
+      institution: Valetude Primus Healthcare Pvt. Ltd., New Delhi, India
+      year: Jun 2015 - Aug 2021
+      description:
+        - Led multiple healthcare technology development projects as Principal Investigator; developed prototypes and full products.
+        - Worked with investors and government agencies to secure funds and drive business development.
+        - Conducted multi-centric clinical validations; received CDSCO certification for TB-product from the Drug Controller General of India.
+
+- title: Industry Experience
+  type: time_table
+  contents:
+    - title: Board Member
+      institution: Valetude Primus Healthcare Pvt Ltd
+      year: Jan 2022 - 2024
+      description:
+        - Strategic financial and operational planning.
+        - Providing scientific expertise in technology and product development.
+    - title: Co-founder, Managing Director
+      institution: Valetude Primus Healthcare Pvt Ltd
+      year: May 2015 - Dec 2021
+      description:
+        - Established the company, built a team of young professionals, and developed patented technologies.
+        - Secured patents in US, UK, South Africa, and India for four innovative technologies.
+        - Managed stakeholder relationships including investors, manufacturers, customers, regulators, and academics.
+    - title: Business Analyst
+      institution: Evalueserve Pvt Ltd
+      year: Jun 2011 - Dec 2012
+      description:
+        - Developed statistical models for forecasting and prediction in data science projects.
+        - Performed competitive benchmarking and data analysis to inform business strategy.
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Co-Instructor (with Prof. Xavier Intes)
+      institution: Department of Biomedical Engineering, Rensselaer Polytechnic Institute
+      year: 2022 - 2024
+      description:
+        - "Biophotonics: Spring 2023, Spring 2024"
+        - "Bio-Imaging and Bio-Instrumentation: Fall 2022, Fall 2023, Fall 2024"
+    - title: Workshop Attendee
+      institution: American Institute for Medical and Biological Engineering (AIMBE) Public Policy Institute, Washington, DC
+      year: Oct 2023
+      description:
+        - Role of researchers in public policy and advocacy.
+    - title: SwissSPAD User Group Meeting and Workshop
+      institution: Advanced Quantum Architecture Laboratory (AQUA), EPFL, Switzerland
+      year: 2023, 2024
+      description:
+        - "Creativity Meeting: March 2023, Les Diablerets, Switzerland"
+        - "User Group Meeting: May 2024, Les Diablerets, Switzerland"
+
+- title: Grants and Awards
+  type: time_table
+  contents:
+    - title: IBM-RPI Future of Computing Research Collaboration (FCRC) — Co-PI
+      year: 2025
+      description:
+        - "100,000 USD — USA"
+    - title: IBM-RPI AI Research Collaboration (AIRC) — Co-I
+      year: 2024
+      description:
+        - "180,000 USD — USA"
+    - title: Biotechnology Ignition Grant (BIG) — PI
+      year: 2019
+      description:
+        - "5,000,000 INR — India (BIRAC)"
+    - title: India Health Fund — Co-I
+      year: 2019
+      description:
+        - "19,000,000 INR — India"
+    - title: Gandhian Young Technology Innovation Award (President Award) — PI
+      year: 2018
+      description:
+        - "1,500,000 INR — Conferred by the President of India"
+    - title: Grand Challenge Exploration Award — PI
+      year: 2018
+      description:
+        - "5,000,000 INR — Bill & Melinda Gates Foundation and BIRAC"
+    - title: Social Alpha – Quest for Innovation — PI
+      year: 2018
+      description:
+        - "2,500,000 INR — India"
+    - title: Tech Planter — Co-PI
+      year: 2016
+      description:
+        - "200,000 YEN — Japan"
+    - title: Longitude Prize Discovery Award — PI
+      year: 2016
+      description:
+        - "1,150,000 INR — Royal Society London, for innovation in Antimicrobial Resistance (AMR) detection"
+    - title: Pfizer – IIT Delhi Innovation Award — Co-PI
+      year: 2016
+      description:
+        - "5,000,000 INR — India"
+    - title: IIT Delhi Innovation Award & Seed Funding — Co-PI
+      year: 2015
+      description:
+        - "200,000 INR — India"
+
+- title: Honors
+  type: list
+  contents:
+    - "Membership: Sigma Xi, the scientific research honour society (since 2024)"
+    - "Lifetime Member: Optica (formerly OSA) and SPIE"
+    - "Invited Member: Sepsis Innovation Collaborative, California, USA (2022)"
+    - "CDSCO Certificate from the Drug Controller General of India for SeeTB device implementation in resource-poor settings (2020)"
+    - "Gandhian Young Technology Innovation Award — conferred by the President of India for tuberculosis diagnostics in resource-limited settings (2018)"
+    - "Social Alpha Impact Innovation Award and Grand Challenge Exploration Award (BIRAC, Bill & Melinda Gates Foundation, IKP, 2018)"
+    - "Longitude Prize Discovery Award: Royal Society London for innovation in Antimicrobial Resistance (AMR) detection (2016)"
+    - "Elected House Secretary: Represented 800 students of Udaigiri House at IIT Delhi (2015)"
+
+- title: Scientific Service
+  type: nested_list
+  contents:
+    - title: Guest Associate Editor (2025)
+      items:
+        - "Frontiers in Medicine (Precision Medicine) — Next-Generation Preclinical Imaging and Analytical Technologies for Personalized Oncology"
+        - "Frontiers in Medicine (Brain Imaging Methods) — Advancing neuroimaging diagnostics with machine learning and computational models"
+    - title: Reviewer for Scientific Journals
+      items:
+        - "Nature Communications, Nature Communications Engineering"
+        - "IEEE Transactions on Biomedical Engineering"
+        - "Journal of Biomedical Optics, Biomedical Optics Express"
+        - "Optica (Optics Letters, Applied Optics)"
+        - "Frontiers in Artificial Intelligence"
+        - "Frontier Sciences"
+    - title: Reviewer for Grants
+      items:
+        - "Swiss National Science Foundation (2022)"
+        - "Gandhian Young Technology Innovation Award, SRISTI (2019, 2020)"
+    - title: Judgement / Panels / Invited Talks
+      items:
+        - "Session Chair (Deep Learning): SPIE Photonics West 2026 and 2024, Multimodal Biomedical Imaging XIX"
+        - "Invited talk: International Symposium on Fluorescence Guided Surgery, MEEI Harvard Medical School (2025)"
+        - "Invited Presentation: Molecular-Guided Surgery sessions at SPIE Photonics West 2025 and 2026"
+        - "Podium Presentation: National Cancer Institute (NCI/NIH), Junior Investigator, July 2024"
+        - "Invited Presentation: Webinar on deep learning techniques for fluorescence imaging, Electro Optics & Hamamatsu Photonics (2023)"
+        - "Research Judge: Poster Sessions, Centre for Materials, Devices, and Integrated Systems (CMDIS), RPI (2022, 2023)"
+        - "Invited Participant: Geneva Health Innovation Fair for TB diagnostics technology"
+        - "Invited Guest Lecture: Grassroots innovation at IIM Ahmedabad, India (2019)"
+        - "Invited Panelist: Intel Research, role of AI in Healthcare, Bengaluru, India (2018)"
+        - "Panelist: BIRAC — Infectious disease technologies (2018) and Antimicrobial Resistance (2017)"
+        - "Panelist: Invest India — Strengthening the innovation ecosystem for biopharmaceuticals (2018)"
+        - "Panelist: IIT Delhi — Innovation in healthcare (2017)"
+        - "Participation: Symposium on Optical Surgical Navigation 2026, Stanford Medicine, Stanford, USA"
