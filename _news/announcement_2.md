@@ -1,10 +1,8 @@
 ---
 layout: post
-date: 2024-12-15 15:59:00-0400
+date: 2026-08-24 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Upcoming Presentation at Compression Workshop @ NeurIPS 2024: 
-
-I am excited to announce that I will be presenting my latest research, "Compressing Recurrent Neural Networks for FPGA-accelerated Implementation in Fluorescence Lifetime Imaging," at the Compression Workshop @ NeurIPS 2024 on December 10, 2024
+A new version of [**PyFli**](https://pyfli.org) is scheduled for release on August 31, 2026. Check [pyfli.org](https://pyfli.org) for details as the release date approaches.

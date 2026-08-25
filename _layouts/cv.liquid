@@ -8,8 +8,9 @@ layout: default
         {{ page.title }}
         {% if page.cv_pdf %}
           <a
-            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
-            rel="noopener noreferrer"
+            href="#"
+            data-toggle="modal"
+            data-target="#cvPdfModal"
             class="float-right"
             ><i class="fa-solid fa-file-pdf"></i
           ></a>
@@ -53,9 +54,9 @@ layout: default
         {{ page.title }}
         {% if page.cv_pdf %}
           <a
-            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="#"
+            data-toggle="modal"
+            data-target="#cvPdfModal"
             class="float-right"
             ><i class="fa-solid fa-file-pdf"></i
           ></a>
@@ -114,3 +115,33 @@ layout: default
     </article>
   </div>
 {% endunless %}
+
+{% if page.cv_pdf %}
+  <div class="modal fade" id="cvPdfModal" tabindex="-1" role="dialog" aria-labelledby="cvPdfModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document" style="max-width: 90vw;">
+      <div class="modal-content" style="height: 90vh;">
+        <div class="modal-header">
+          <h5 class="modal-title" id="cvPdfModalLabel">{{ page.title }}</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body p-0" style="overflow: hidden;" oncontextmenu="return false;">
+          <iframe
+            src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}#toolbar=0&navpanes=0&scrollbar=0"
+            style="width: 100%; height: 100%; border: 0;"
+            title="{{ page.title }}"
+          ></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+    document.addEventListener('keydown', function (e) {
+      var modal = document.getElementById('cvPdfModal');
+      if (modal && modal.classList.contains('show') && (e.ctrlKey || e.metaKey) && (e.key === 's' || e.key === 'p')) {
+        e.preventDefault();
+      }
+    });
+  </script>
+{% endif %}

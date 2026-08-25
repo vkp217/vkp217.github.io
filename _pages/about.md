@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://intes-lab.bme.rpi.edu/node/11'>Rensselaer Polytechnic Institute</a>. Johnsson Engineering Centre (JEC). 49 College Ave, Troy, NY 12180
+subtitle: <a href='https://www.linkedin.com/in/vikaspandeyvaletudeprimus1/'> New York
+# <a href='https://intes-lab.bme.rpi.edu/node/11'>Rensselaer Polytechnic Institute</a>. Johnsson Engineering Centre (JEC). 49 College Ave, Troy, NY 12180
 
 profile:
   align: right
@@ -14,7 +15,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a Research Scientist at Rensselaer Polytechnic Institute (RPI) and an expert in Functional & Molecular Optical Imaging, advancing the frontiers of biophotonics, computational modeling, time-resolved functional imaging, and deep learning.
+I am a scientist working at the intersection of biomedical imaging hardware, data science, and deep learning. I specialize in building imaging systems and computational pipelines that turn complex optical measurements into clinically actionable insights, and I enjoy developing state-of-the-art biophotonics computational models alongside translational research that moves these tools from the lab into real-world use.
 
 My focus is on physics-guided deep learning models with hardware-accelerated deployment for developing efficient, user-friendly, high-impact medical technologies (Imaging Technogies) that address critical challenges in oncology such as in image-guided surgery and infectious disease diagnostics.
 
@@ -26,7 +27,7 @@ My focus is on physics-guided deep learning models with hardware-accelerated dep
 - **Translational Medical Devices:** Translating complex laboratory instrumentation into certified, field-deployable clinical tools.
 
 **Recent Progress & Key Achievements**
-- **Open-Source Software Development:** Authored and published [<img src="https://raw.githubusercontent.com/vkp217/pyfli-pkg/main/src/pyfli/PyFLI_logo.png" alt="pyFLI" style="height:1.2em; vertical-align:middle;">](https://pypi.org/project/pyfli-lib/) on PyPI, an open-source Python package designed for the unified, scalable processing and analysis of Fluorescence Lifetime Imaging (FLI) data.
+- **Open-Source Software Development:** Authored and published [<img src="/assets/img/pyfli_logo.png" alt="PyFli" style="height:1.2em; vertical-align:middle;">](https://pyfli.org) on PyPI, an open-source Python package designed for the unified, scalable processing and analysis of Fluorescence Lifetime Imaging (FLI) data.
 
 - **Amortized Bayesian Inference:** Developed a breakthrough computational framework utilizing amortized inference for exceptionally fast and robust lifetime parameter estimation in low-photon FLI regimes.
 

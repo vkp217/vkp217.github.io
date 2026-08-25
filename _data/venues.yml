@@ -1,9 +1,5 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+# Maps a bibtex entry's `abbr` field to a display color/URL on the publications page.
+# Add entries here if you want a specific venue badge styled, e.g.:
+# "arXiv":
+#   url: https://arxiv.org
+#   color: "#b31b1b"

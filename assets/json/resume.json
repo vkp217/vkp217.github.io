@@ -288,7 +288,7 @@
   ],
   "projects": [
     {
-      "name": "pyFLI — Open-source Fluorescence Lifetime Imaging Library",
+      "name": "PyFli — Open-source Fluorescence Lifetime Imaging Library",
       "summary": "Authored and published pyfli-lib on PyPI, an open-source Python package for unified, scalable processing and analysis of Fluorescence Lifetime Imaging data.",
       "highlights": ["Open-source", "PyPI package", "FLI data processing"],
       "startDate": "2026-01-01",
