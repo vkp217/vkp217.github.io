@@ -57,10 +57,7 @@
       "startDate": "2022-01-01",
       "endDate": "2024-01-01",
       "summary": "New Delhi, India",
-      "highlights": [
-        "Strategic financial and operational planning",
-        "Scientific expertise in technology and product development"
-      ]
+      "highlights": ["Strategic financial and operational planning", "Scientific expertise in technology and product development"]
     },
     {
       "name": "Valetude Primus Healthcare Pvt. Ltd.",
@@ -231,13 +228,7 @@
       "name": "AI Hardware & Software",
       "level": "Advanced",
       "icon": "fa-solid fa-microchip",
-      "keywords": [
-        "FPGA-accelerated Deep Learning",
-        "Neural Network Compression",
-        "Real-time Image Processing",
-        "PyTorch",
-        "Python (pyfli-lib)"
-      ]
+      "keywords": ["FPGA-accelerated Deep Learning", "Neural Network Compression", "Real-time Image Processing", "PyTorch", "Python (pyfli-lib)"]
     }
   ],
   "languages": [
