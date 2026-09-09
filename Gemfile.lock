@@ -38,7 +38,7 @@ GEM
       rexml
     csl-styles (1.0.1.11)
       csl (~> 1.0)
-    css_parser (1.19.0)
+    css_parser (1.22.0)
       addressable
     cssminify2 (2.0.1)
     csv (3.3.6)
@@ -180,6 +180,7 @@ GEM
     nokogiri (1.19.4-x86_64-linux-gnu)
       racc (~> 1.4)
     observer (0.1.2)
+    ostruct (0.6.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (7.0.5)
@@ -241,6 +242,7 @@ DEPENDENCIES
   jemoji
   mini_racer
   observer
+  ostruct
   unicode_utils
   webrick
 

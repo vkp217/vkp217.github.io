@@ -701,9 +701,18 @@ footer.sticky-bottom {
           display: inline-block;
           background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
+          // Allow long venue names (e.g. "Part. Part. Syst. Charact.") to wrap
+          // inside the narrow column instead of spilling out of the badge.
+          white-space: normal;
+          overflow-wrap: anywhere;
+          word-break: break-word;
+          hyphens: auto;
+          line-height: 1.25;
 
           a {
             color: white;
+            overflow-wrap: anywhere;
+            word-break: break-word;
 
             &:hover {
               text-decoration: none;
